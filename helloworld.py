@@ -1,2 +1,2 @@
 
-print("Hello hoi cao lon 123")
+print("Hello test")
